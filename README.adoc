@@ -1,0 +1,5 @@
+= gerrit-mute-userscript
+
+== Introduction
+
+gerrit-mute-userscript is a Tampermonkey / greasemonkey script that adds a "Muted" section and allows reviewer to mute patches
